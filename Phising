@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Garena - Connecting World Gamers</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="http://cdn.garenanow.com/webmain/static/favicon.ico" type="image/x-icon"/>
+	<link href="https://cdngarenanow-a.akamaihd.net/gop/sso/theme/dark/css/sso.css?v=0.47" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+<div class="header" id="header">
+<div class="topBarGarena"></div>
+<div class="topBar"></div>
+<h1><a href="http://www.garena.com" class="logo">
+<img style="width: 135px; height: 46px;" src="/images/header_garena.png"></a></h1></div>
+
+ </div>
+          
+<div style="background: Red; border: 2px solid #FF0000; color: Black; font-size: 15px; font-weight: bold; letter-spacing: 0.5em; padding: 8px;">
+<marquee direction="Right" scrollamount="6" align="Right">Selamat  Datang Troopers - Garena World Gamers</marquee>
+</div> <br>
+
+<div id="pricing"> 
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/b1.jpg"> <span class="name">KRISS SV SAKURA</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="KRISS SV SAKURA" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/b2.jpg"> <span class="name">AUG A3 SAKURA</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="AUG A3 SAKURA" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/b3.jpg"> <span class="name">AK SOPMOD SAKURA</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="AK SOPMOD SAKURA" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+</div>
+
+<div id="pricing"> 
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/Aug.jpg"> <span class="name">AUG G ESPORT</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="AUG G-ESPORT" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/Kriss.jpg"> <span class="name">KRISS SV G-ESPORT</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="KRISS SV G ESPORT" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/Cheytac.jpg"> <span class="name">CHEYTAC 200 G-ESPORT</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="CHEYTAC 200 G-ESPORT" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+</div>
+
+<div id="pricing"> 
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/a1.jpg"> <span class="name">CHEYTAC 200 INFERNO</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="CHEYTAC 200 INFERNO" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/a2.jpg"> <span class="name">FANGBLADE INFERNO</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="FANGBLADE INFERNO" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+<div class="price_card alpha"> 
+<div class="header"> <img src="img/a3.jpg"> <span class="name">P90 INFERNO</span> </div> <form action="confirmation.php" method="post"> <input type="hidden" name="judul" class="judul" value="P90 INFERNO" /> <input type="submit" name="submit" value="Ambil" class="tombol"/> </form> <span class="tip">3 HARI</span> 
+</div>
+</div>
+
+
+<div style="background: white; border: 2px solid white; color: red; font-size: 15px; font-weight: bold; letter-spacing: 0.5em; padding: 8px;">
+<marquee direction="Right" scrollamount="6" align="Right">Silahkan Ambil Hadiahmu!</marquee>
+</div> <br>
+
+</html>
